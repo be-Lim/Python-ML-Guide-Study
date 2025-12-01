@@ -11,7 +11,7 @@
 - **Environment:** Google Colab
 
 ## 내용 구성
-- **Chapter02:** 머신러닝 개요
+- **Chapter02:** 사이킷런 개요
 - **Chapter03:** 평가
 - **Chapter04:** 분류
 - **Chapter05:** 회귀
