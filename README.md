@@ -15,3 +15,8 @@
 - **Chapter03:** 평가
 - **Chapter04:** 분류
 - **Chapter05:** 회귀
+- **Chapter06:** 차원 축소
+- **Chapter07:** 군집화
+- **Chapter08:** 텍스트 분석
+- **Chapter09:** 추천 시스템
+- **Chapter10:** 시각화
