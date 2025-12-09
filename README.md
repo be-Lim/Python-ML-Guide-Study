@@ -7,7 +7,7 @@
 
 ## 사용 기술
 - **Language:** Python
-- **Library:** Pandas, Numpy, Scikit_learn
+- **Library:** Pandas, Numpy, Scikit_learn, Scipy
 - **Environment:** Google Colab
 
 ## 내용 구성
