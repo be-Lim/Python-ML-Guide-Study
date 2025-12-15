@@ -19,4 +19,3 @@
 - **Chapter07:** 군집화
 - **Chapter08:** 텍스트 분석
 - **Chapter09:** 추천 시스템
-- **Chapter10:** 시각화
